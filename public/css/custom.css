@@ -1,0 +1,16 @@
+.card {
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.required-field{
+    color: red;
+}
+.fetch-button, .search_div{
+    margin-bottom: 15px;
+}
+.input_space{
+    margin-right: 15px;
+}
+.table_list > tr:first-child > td {
+    font-weight: bold;
+}
